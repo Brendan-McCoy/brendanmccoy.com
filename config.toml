@@ -6,6 +6,8 @@ title = "Docdock"
 theme = "docdock"
 themesdir = "themes"
 
+publishDir = "docs"
+
 [params]
 editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
 showVisitedLinks = true # default is false
